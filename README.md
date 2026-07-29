@@ -2,12 +2,12 @@
 
                                                                
 
-                                                           **Smart Student Portfolio**
+                                                    **Smart Student Portfolio**
 
 
 ## About the Project
 
-            MemoryVerse AI is an **AI-powered Digital Identity System** designed to help students organize, manage, and retrieve their academic and professional documents from a single platform. The system transforms scattered files such as **certificates**, **resumes**, **project reports**, **internship letters**, and **academic records** into a structured, searchable, and intelligent digital portfolio. By leveraging **Artificial Intelligence**, MemoryVerse AI automatically analyzes uploaded documents, extracts relevant skills, generates concise summaries, and categorizes documents into meaningful sections. This enables students to maintain a centralized repository of their academic achievements while reducing the effort required to locate important files.
+            MemoryVerse AI is an **AI-powered Digital Identity System** designed to help students organize, manage, and retrieve their academic and professional documents from a single platform. The system transforms scattered files such as certificates, resume, project reports, internship letters, and academic records into a structured, searchable, and intelligent digital portfolio. By leveraging Artificial Intelligence, MemoryVerse AI automatically analyzes uploaded documents, extracts relevant skills, generates concise summaries, and categorizes documents into meaningful sections. This enables students to maintain a centralized repository of their academic achievements while reducing the effort required to locate important files.
 
 
 
@@ -55,7 +55,7 @@
 
 ## How It Works
 
-       When a document is uploaded, the platform extracts its content and sends it to the **AI engine** for analysis. The system identifies the **document type**, extracts **technical skills**, generates a concise **summary**, and stores the processed metadata securely. The original document remains intact while users can retrieve information through **Natural Language Search** and explore their achievements using the **Digital Journey Timeline**.
+       When a document is uploaded, the platform extracts its content and sends it to the AI engine for analysis. The system identifies the document type, extracts technical skills, generates a concise summary, and stores the processed metadata securely. The original document remains intact while users can retrieve information through Natural Language Search and explore their achievements using the Digital Journey Timeline.
 
 
 
